@@ -19,5 +19,4 @@ Then, faces with different occlusions (glasses, lightning, face expression etc.)
 
 ![subject01.glasses.gif.jpeg](https://raw.githubusercontent.com/bezareva/static/master/face_recognition/subject01.glasses.gif.jpeg)
 
-Program is supposed to recognise the face and identify type 
-of occlusion and write results in .csv file. Success rate was above 90%.
+Success rate was above 90%.
