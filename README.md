@@ -2,7 +2,7 @@
 Face recognition and occlusion identification.
 <hr>
 
-Goal of this project was to observe how occlusions
+Goal of this project was to observe how occlusions and different emotional expressions
 impact face recognition process using Python language. 
 
 Source of face photos was Yale Faces database: http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html
